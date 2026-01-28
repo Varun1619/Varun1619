@@ -2,7 +2,7 @@
 
 **Data Engineer | MS in Information Systems @ Northeastern University**
 
-I specialize in building scalable data pipelines and analytics platforms. With experience at Mass General Brigham and LTI Mindtree, I've architected ETL solutions processing 140,000+ records and improved data accessibility by 25%. Passionate about turning raw data into actionable insights.
+I specialize in building scalable data pipelines and analytics platforms. With experience at **Mass General Brigham** and **LTI Mindtree**, I've architected ETL solutions processing 140,000+ records and improved data accessibility by **25%**. Passionate about turning raw data into actionable insights.
 
 📍 Boston, MA | 📧 singh.varun3@northeastern.edu
 
