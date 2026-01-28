@@ -6,7 +6,7 @@ I build data pipelines that actually work. Currently pursuing my MS in Informati
 
 When I'm not wrangling data, you'll find me exploring new tech, breaking things in dev environments, and occasionally fixing them too 😄
 
-📍 Boston | ✉️ singh.varun3@northeastern.edu
+📍 Boston | ✉️ singh.varun3@northeastern.edu / varun1619singh@gmail.com
 
 ---
 
@@ -124,7 +124,8 @@ Where I first fell in love with data.
 ### 📬 Let's Chat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varunsinghtech)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.varun3@northeastern.edu)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:singh.varun3@northeastern.edu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varun1619singh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varun1619)
 
 ---
